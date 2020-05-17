@@ -9,11 +9,11 @@ end
 def add_element_to_end_of_array(array, element)
   add_element_to_end_of_array = ["hello", "bye"]
   add_element_to_end_of_array.push("arrays!")
-  
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  add_element_to_start_of_array = ["word", "anotha one"]
+  add_element_to_start_of_array.unshift("dj khaled")
 end
 
 def remove_element_from_end_of_array(array)
